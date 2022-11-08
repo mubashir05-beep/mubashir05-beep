@@ -12,7 +12,7 @@
 - 📫 How to reach me **contact.muhammadmubashir@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">**contact.muhammadmubashir@gmail.com**
+<p align="left">contact.muhammadmubashir@gmail.com
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
