@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mubashir</h1>
-<h3 align="center">A passionate frontend developer from Pakistan, Islamabad</h3>
+<h3 align="center">A passionate frontend developer and a Gamerrrr from Pakistan, Islamabad</h3>
 
 
 - 🌱 I’m currently learning **MERN Stack**
@@ -8,7 +8,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/mubashir05-beep](https://github.com/mubashir05-beep)
 
-- 📫 How to reach me **contact.muhammadmubashir@gmail.com**
+- 📫 Reach me at **contact.muhammadmubashir@gmail.com**
 
 
 <h3 align="left">Languages and Tools:</h3>
