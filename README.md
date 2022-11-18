@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Mubashir</h1>
-<h3 align="center">A passionate frontend developer and a Gamerrrr from Pakistan, Islamabad</h3>
+<h1 align="center">Hello 👋, I'm Mubashir</h1>
+<h3 align="center">A passionate Front-End developer and a Gamerrrr from Pakistan, Islamabad</h3>
 
 
 - 🌱 I’m currently learning **MERN Stack**
