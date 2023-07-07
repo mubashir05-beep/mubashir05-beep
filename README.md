@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Front-End developer and Gamerrrr based in Islamabad, Pakistan</h3>
 
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **T3-Stack**
 
 - 👯 I’m looking to collaborate on **Frontend related projects**
 
