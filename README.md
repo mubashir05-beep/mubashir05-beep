@@ -1,5 +1,6 @@
 <h1>Hello 👋, I'm Mubashir</h1>
-<p>A dedicated React/TypeScript Developer with a knack for crafting dynamic and engaging user interfaces. With a strong passion for clean code and a constant drive to learn new, exciting technologies, I thrive on bringing digital experiences to life. Whether it's building responsive web applications or exploring innovative design concepts, I'm always up for a challenge. Let's collaborate and shape the future of the digital landscape together! 🚀</p>
+<p>A dedicated React/TypeScript Developer with a knack for crafting dynamic and engaging user interfaces. With a strong passion for clean code and a constant drive to learn new, exciting technologies, I thrive on bringing digital experiences to life. Whether it's building responsive web applications or exploring innovative design concepts, I'm always up for a challenge. Let's collaborate and shape the future of the digital landscape toge 
+ ther! 🚀</p>
 <head>
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
 </head>
