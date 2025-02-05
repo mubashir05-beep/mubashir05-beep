@@ -4,10 +4,11 @@ Software Engineer with a strong background in building efficient, scalable solut
 ---
 
 # 📚 Currently Learning:
-- **Go:** Focusing on building scalable systems and concurrency.
-- **DevOps Practices:** Exploring CI/CD pipelines, containerization, and orchestration with Kubernetes.
-- **Docker:** Learning containerization for better deployment and scalability.
-
+- **System Architecture:** Designing scalable, distributed systems with a focus on high availability, fault tolerance, and performance optimization.
+- **Cloud Platforms:** Gaining expertise in cloud-native solutions, including AWS, GCP, and Azure, to build highly scalable and cost-efficient infrastructure.
+- **DevOps Practices:** Leaning CI/CD pipelines, infrastructure as code (IaC), and automation for seamless deployment processes.
+- **Microservices Architecture:** Designing loosely coupled services to enhance scalability, fault tolerance, and ease of maintenance.
+  
 ---
 
 # 💻 Tech Stack:
